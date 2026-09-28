@@ -12,7 +12,7 @@
 
 ## 📥 Скачать
 
-**[⬇ Скачать Medic_Calc_ver_2.3.exe (GitHub Releases)](https://github.com/lemparius1582-lgtm/medical-calc/releases/latest/download/Medical_Calc_ver_2.3.exe)** — для Windows, без установки.
+**[⬇ Скачать Medical_Calc_ver_2.3.exe (GitHub Releases)](https://github.com/lemparius1582-lgtm/medical-calc/releases/latest/download/Medical_Calc_ver_2.3.exe)** — для Windows, без установки.
                                                        
 Зеркала:
 - [Яндекс.Диск (файл)](https://disk.yandex.ru/d/MfIWdGoYsam6qA) — если GitHub недоступен.
@@ -39,7 +39,7 @@
 
 ### Как пользоваться
 
-1. **Скачайте** `Medic_Calc_ver_2.3.exe` по ссылке выше.
+1. **Скачайте** `Medical_Calc_ver_2.3` по ссылке выше.
 2. **Запустите** двойным кликом (см. раздел «Если Windows блокирует запуск»).
 3. **Выберите вкладку** сверху: «Койко-дни», «Возраст» или «Аналитика».
 4. **Введите даты** — тремя полями (день, месяц, год) или через календарь (📅).
