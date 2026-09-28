@@ -12,8 +12,8 @@
 
 ## 📥 Скачать
 
-**[⬇ Скачать Medic_Calc_ver_2.3.exe (GitHub Releases)](https://github.com/lemparius1582-lgtm/medical-calc/releases/latest/download/Medic_Calc_ver_2.3.exe)** — для Windows, без установки.
-
+**[⬇ Скачать Medic_Calc_ver_2.3.exe (GitHub Releases)](https://github.com/lemparius1582-lgtm/medical-calc/releases/latest/download/Medical_Calc_ver_2.3.exe)** — для Windows, без установки.
+                                                       
 Зеркала:
 - [Яндекс.Диск (файл)](https://disk.yandex.ru/d/MfIWdGoYsam6qA) — если GitHub недоступен.
 - [Яндекс.Диск (папка со всеми файлами)](https://disk.yandex.ru/d/O-fXEJZTPFi2ew).
