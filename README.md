@@ -51,7 +51,7 @@
 
 ### Скриншот
 
-![Главное окно](https://disk.yandex.ru/i/ZjZk6WhmE1Q6VQ)
+![Главное окно](screenshots/main.png)
 
 ### Как пользоваться
 
