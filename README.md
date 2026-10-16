@@ -1,5 +1,9 @@
 # 🏥 Медицинский календарный калькулятор
 
+> **Версия 3.0 уже доступна для Windows.** В работе — версия под Linux.
+> Следите за обновлениями в разделе [Releases](https://github.com/lemparius1582-lgtm/medical-calc/releases)
+> и на этой странице.
+
 [![Версия](https://img.shields.io/badge/версия-3.0-blue)](https://github.com/lemparius1582-lgtm/medical-calc/releases)
 [![Платформа](https://img.shields.io/badge/платформа-Windows-lightgrey)](https://github.com/lemparius1582-lgtm/medical-calc/releases)
 [![Лицензия](https://img.shields.io/badge/лицензия-MIT-green)](https://github.com/lemparius1582-lgtm/medical-calc/blob/main/LICENSE)
@@ -152,6 +156,8 @@ pyinstaller --noconsole --onefile --name Medical_Calc_ver_3.0 Medical_Calc_ver_3
 - **`TabBase`** — базовый класс для вкладок. Каждая вкладка сама описывает, что сохранять (`get_settings`) и как восстанавливать (`apply_settings`), и может реагировать на смену темы (`apply_theme`).
 - **`DateInput`** — виджет ввода даты: три поля ДД / ММ / ГГГГ с автопереходом, вставкой и валидацией.
 - **Вкладки**: `MedicalTab`, `AgeTab`, `PeriodTab`, `LeapYearsTab`, `AboutTab` — каждая отвечает только за свою логику.
+- **Утилиты**: `pluralize` (склонение), `is_leap` (високосный год), `make_copyable` (копирование по клику).
+- **Функции модуля**: `open_calendar_popup` (попап календаря), `set_today` (текущая дата).
 
 ### Как добавить свою вкладку
 
